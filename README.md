@@ -3,7 +3,7 @@
 A quiz app for Chess lovers
 
 ### Preview
-
+![chess-cart preview](src/images/chessQuiz.png)
 
 Live Link [https://chess-quiz.netlify.app](https://chess-quiz.netlify.app)
 
@@ -11,7 +11,6 @@ Live Link [https://chess-quiz.netlify.app](https://chess-quiz.netlify.app)
 
 - React⚛ + TypeScript😍
 - JWT Authentication🔐
-- Used bcrypt to store passwords securely on MongoDB
 - Clean and responsive layout
 - Select from different levels
 - Quiz result at the end
